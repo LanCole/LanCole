@@ -1,5 +1,6 @@
 ## Hi there 👋
 🔭 I’m Baolan currently working on UCAS and ShanghaiTech University.
+
 🌱 I’m currently learning Computer Science.
 <!--
 **BaolanChen/BaolanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

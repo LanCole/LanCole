@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone, there 👋
 🔭 I’m Baolan currently learning Computer Science.
 
 <!--

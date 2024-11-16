@@ -1,6 +1,6 @@
 ## Hello Everyone, there 👋
-🔭 I’m Baolan currently learning Computer Science.
-🌱 I am interested in natural language processing and multimodal processing in the field of deep learning.
+- 🔭 I’m Baolan currently learning Computer Science.
+- 🌱 I am interested in natural language processing and multimodal processing in the field of deep learning.
 <!--
 **BaolanChen/BaolanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

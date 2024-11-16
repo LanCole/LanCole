@@ -1,7 +1,9 @@
 ## Hello Everyone, there 👋
 - 🔭 I’m Baolan currently learning Computer Science.
-- 🌱 I am interested in natural language processing and multimodal processing in the field of deep learning.
 
+### Still intrested in  
+    - NLP, LLM, MultiModal, Signal Processing etc.
+    
 ### My Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaolanChen)
 

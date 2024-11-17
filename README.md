@@ -2,7 +2,7 @@
 - 🔭 I’m Baolan currently learning Computer Science.
 
 ### Still intrested in  
-    - NLP, LLM, MultiModal, Signal Processing etc.
+    - NLP, LLM, Recommendation System, Retrieval System, MultiModal, Signal Processing etc.
 ### My Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaolanChen)
 ### Most Used Language in Github:

@@ -1,13 +1,10 @@
 ## Hello Everyone, there 👋
-### About Me
 <div align="center">
    <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <img src="https://github.com/BaolanChen/BaolanChen/blob/main/cute_cat.png" / width=250>
   </picture>
    
-- 🔭 I am Baolan currently learning computer science.
-- 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -17,6 +14,10 @@
 </picture>
 
 </div>
+
+### About Me
+- 🔭 I am Baolan currently learning computer science.
+- 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
 
 
 

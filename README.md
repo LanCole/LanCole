@@ -28,7 +28,7 @@
     - Deep Learning Framework, Inference Acceleration, Model Deployment etc.
     
 ## My Github stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaolanChen)](https://github.com/BaolanChen/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaolanChen&count_private=true)
 ## Most Used Language in Github:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaolanChen)
 

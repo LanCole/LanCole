@@ -3,7 +3,9 @@
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
 
 ### Still intrested in  
-    - NLP, LLM, Recommendation System, Retrieval System, MultiModal, Signal Processing etc.
+    - NLP, LLM, Recommendation System, Retrieval System, MultiModal, Signal Processing.
+    - Deep Learning Framework, Inference Acceleration, Model Deployment etc.
+    
 ### My Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaolanChen)
 ### Most Used Language in Github:

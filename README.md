@@ -1,4 +1,6 @@
 ## Hello Everyone, there 👋
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+
 ### About Me
 - 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.

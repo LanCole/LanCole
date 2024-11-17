@@ -1,6 +1,13 @@
 # Hello Everyone, there 👋
 <div align="center">
-   <!-- knock code pictures 敲代码的图片 -->
+     <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Everything goes well for you!&center=true&size=27" />
+    </a>
+  </div>
+   
+   <!-- cute cat pictures -->
   <picture>
     <img src="https://github.com/BaolanChen/BaolanChen/blob/main/cute_cat.png" / width=250>
   </picture>

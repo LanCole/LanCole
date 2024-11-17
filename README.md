@@ -7,7 +7,6 @@
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>

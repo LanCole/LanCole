@@ -4,6 +4,14 @@
   <picture>
     <img src="https://github.com/BaolanChen/BaolanChen/blob/main/cute_cat.png" / width=250>
   </picture>
+
+   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaolanChen/BaolanChen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaolanChen/BaolanChen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BaolanChen/BaolanChen/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ### About Me

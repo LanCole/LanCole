@@ -1,4 +1,4 @@
-## Hello Everyone, there 👋
+# Hello Everyone, there 👋
 <div align="center">
    <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -17,19 +17,20 @@
 
 </div>
 
-### About Me
+## About Me
 - 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
 
 
 
-### Still intrested in  
+## Still intrested in  
     - NLP, LLM, MultiModal Model, Recommendation System.
     - Deep Learning Framework, Inference Acceleration, Model Deployment etc.
     
-### My Github stats:
+## My Github stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaolanChen)
-### Most Used Language in Github:
+
+## Most Used Language in Github:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaolanChen)
 
 <!--

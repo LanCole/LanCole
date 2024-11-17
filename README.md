@@ -1,5 +1,5 @@
 ## Hello Everyone, there 👋
-- 🔭 I am Baolan currently learning Computer Science.
+- 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
 
 ### Still intrested in  

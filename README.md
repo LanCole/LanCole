@@ -3,7 +3,7 @@
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
 
 ### Still intrested in  
-    - NLP, LLM, MultiModal Model, Recommendation&Retrieval System.
+    - NLP, LLM, MultiModal Model, Recommendation System.
     - Deep Learning Framework, Inference Acceleration, Model Deployment etc.
     
 ### My Github stats:

@@ -20,9 +20,6 @@
     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
   </div>
   
-<!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-   
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaolanChen/BaolanChen/output/github-contribution-grid-snake-dark.svg">

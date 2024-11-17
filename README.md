@@ -1,9 +1,9 @@
 ## Hello Everyone, there 👋
 
 <div align="center">
-  <!-- knock code pictures 敲代码的图片 -->
+   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+    <img src="https://github.com/BaolanChen/BaolanChen/blob/main/cute_cat.png" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->

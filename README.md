@@ -3,7 +3,7 @@
 <div align="center">
    <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img src="https://github.com/BaolanChen/BaolanChen/blob/main/cute_cat.png" / width=400>
+    <img src="https://github.com/BaolanChen/BaolanChen/blob/main/cute_cat.png" / width=250>
   </picture>
 
   <!-- for beauty 留个空行好看点 -->

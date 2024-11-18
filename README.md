@@ -14,6 +14,8 @@
 
    <!-- profile logo 个人资料徽标 -->
   <div>
+    <!-- blog -->
+       <a href="https://baolanchen.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=BaolanChen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    

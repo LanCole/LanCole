@@ -7,7 +7,7 @@
     </a>
   </div>
    
-   <!-- cute cat pictures -->
+   <!-- cute cat pictures 可爱猫猫图片-->
   <picture>
     <img src="https://github.com/BaolanChen/BaolanChen/blob/main/cute_cat.png" / width=250>
   </picture>
@@ -15,9 +15,9 @@
    <!-- profile logo 个人资料徽标 -->
   <div>
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=BaolanChen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://wakatime.com/@BaolanChen"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
   </div>
   
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->

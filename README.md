@@ -19,7 +19,7 @@
     <!-- blog -->
      <a href="https://baolanchen.github.io/"><img src="https://img.shields.io/badge/Website-个人主页-8c36db" /></a>&emsp;
      <!-- leetcode -->
-     <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/LeetCode-编程-ffcc00" /></a>&emsp;
+     <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/LeetCode-编程-ff9900" /></a>&emsp;
        <!-- zhihu -->
      <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;
     <!-- visitor -->

@@ -21,7 +21,7 @@
      <!-- leetcode -->
      <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/LeetCode-编程-33cc33" /></a>&emsp;
        <!-- zhihu -->
-     <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-33ccff" /></a>&emsp;
+     <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=BaolanChen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>

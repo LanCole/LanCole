@@ -19,7 +19,7 @@
     <!-- blog -->
      <a href="https://baolanchen.github.io/"><img src="https://img.shields.io/badge/Website-个人主页-8c36db" /></a>&emsp;
      <!-- leetcode -->
-     <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/leetcode-编程-8c36db" /></a>&emsp;
+     <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/leetcode-编程-426F42" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=BaolanChen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>

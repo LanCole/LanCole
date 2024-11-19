@@ -41,9 +41,9 @@
 
 
 ## Still intrested in  
-    - NLP, LLM, MultiModal Model, Recommendation System.
+    - NLP, LLM, MultiModal Model, Recommendation System, Retrieval System.
     - Deep Learning Framework, Inference Acceleration, Model Deployment.
-    - Remote Sensing, Satellite system.
+    - Remote Sensing, Satellite System.
     
 ## My Github Stats & Most Used Language in Github
 <div align="center" >

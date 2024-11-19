@@ -15,10 +15,9 @@
    <!-- profile logo 个人资料徽标 -->
   <div>
      <!-- csdn -->
-       <a href="https://blog.csdn.net/qq_40712026?type=blog"><img src="https://img.shields.io/badge/CSDN" /></a>&emsp;
-       
+     <a href="https://blog.csdn.net/qq_40712026?type=blog"><img src="https://img.shields.io/badge/CSDN-csdn" /></a>&emsp;
     <!-- blog -->
-       <a href="https://baolanchen.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+     <a href="https://baolanchen.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=BaolanChen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>

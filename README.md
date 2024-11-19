@@ -42,7 +42,7 @@
 
 
 
-## Still intrested in  
+## Still interested in  
     - NLP, LLM, MultiModal Model, Recommendation System, Retrieval System.
     - Deep Learning Framework, Inference Acceleration, Model Deployment.
     - Remote Sensing, Satellite System.

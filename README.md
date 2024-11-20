@@ -16,14 +16,17 @@
   <div>
      <!-- csdn -->
      <a href="https://blog.csdn.net/qq_40712026?type=blog"><img src="https://img.shields.io/badge/CSDN-博客-ff3300" /></a>&emsp;
-    <!-- blog -->
+       <!-- blog -->
      <a href="https://baolanchen.github.io/"><img src="https://img.shields.io/badge/Website-个人主页-8c36db" /></a>&emsp;
-     <!-- leetcode -->
+      <!-- zhihu -->
+     <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;     
+       <!-- leetcode -->
      <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/LeetCode-编程-ff9900" /></a>&emsp;
-       <!-- zhihu -->
-     <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;
+     <!-- Kaggle -->
+     <a href="https://www.kaggle.com/helloiamcbl"><img src="https://img.shields.io/badge/Kaggle-竞赛-007fff" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=BaolanChen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+
   </div>
   
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -38,8 +41,7 @@
 ## About Me
 - 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
-- 🪐 I am passionate about the open source industry.
-
+- 🪐 I am passionate about the open source industry and participating in data science competitions. 
 
 
 ## Still interested in  

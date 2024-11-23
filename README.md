@@ -1,8 +1,7 @@
+# Hello Everyone, there 👋
+
 <div align="center">
      
-Hello Everyone, there 👋
-===========================
-
   <div>
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=680&lines=console.log(%22Hello%2C%20World!%22);Wishing you all the best~&center=true&size=35&color=#33ccff " />
@@ -43,7 +42,7 @@ Hello Everyone, there 👋
 ## About Me
 - 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
-- 🪐 I am passionate about the open source industry. 
+- 🪐 I am passionate about the open source industry and data competitions. 
 
 
 ## Still interested in  

@@ -43,12 +43,12 @@ Hello Everyone, there 👋
 ## About Me
 - 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
-- 🪐 I am passionate about the open source industry and data science competitions. 
+- 🪐 I am passionate about the open source industry. 
 
 
 ## Still interested in  
     - NLP, LLM, MultiModal Model, Recommendation System, Retrieval System.
-    - Deep Learning Framework, Inference Acceleration, Model Deployment.
+    - Deep Learning Framework, Inference Acceleration.
     - Remote Sensing, Satellite System.
     
 ## My Github Stats & Most Used Language in Github

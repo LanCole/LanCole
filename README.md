@@ -42,7 +42,7 @@
 ## About Me
 - 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack development engineer and also researching deep learning algorithms.
-- 🪐 I am passionate about the open source industry and data competitions. 
+- 🪐 I am passionate about the open-source industry and data competitions. 
 
 
 ## Still interested in  

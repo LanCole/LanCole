@@ -40,9 +40,9 @@
 </div>
 
 ## About Me
-- 🔭 I am Baolan currently learning Computer Science.
-- 🌱 I am exploring becoming a Full Stack Engineer.
-- 🪐 I am passionate about the Open-Source Industry and Data Competitions. 
+- 🔭 I am Baolan currently learning computer science.
+- 🌱 I am exploring becoming a full stack engineer.
+- 🪐 I am passionate about the open-source Industry and data competitions. 
 
 
 ## Still interested in  

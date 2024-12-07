@@ -40,7 +40,7 @@
 </div>
 
 ## About Me
-- 🔭 I am Baolan Chen currently learning computer science.
+- 🔭 I am Baolan currently learning computer science.
 - 🌱 I am exploring becoming a full stack engineer and AI researcher.
 - 🪐 I am passionate about the open-source industry and data competitions. 
 

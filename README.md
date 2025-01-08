@@ -44,7 +44,6 @@
 - 🌱 I am exploring becoming a full stack engineer and AI researcher.
 - 🪐 I am passionate about the open-source industry and data competitions. 
 
-
 ## Still interested in  
     - NLP, LLM, MultiModal Model, Recommendation System, Retrieval System.
     - Deep Learning Framework, Inference Acceleration.

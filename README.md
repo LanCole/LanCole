@@ -50,11 +50,9 @@
     - Remote Sensing, Satellite System.
 
 ## Research Topic  
-    1. Remote Sensing Image Scene Classification
-    2. Remote Sensing Cross-Modal Image-Text Retrieval
-    3. Remote Sensing Multi-Modal Large Language Model
-    4. Long Context Expansion in Large Language Model
-    5. Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models
+    1. Remote Sensing Image Interpretation
+    2. Long Context Expansion in Large Language Model
+    3. Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models
 
 ## Stats & Language in Github
 <div align="center" >

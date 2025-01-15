@@ -41,6 +41,7 @@
 
 ## About Me
 - 🔭 I am Baolan currently learning computer science.
+- 💼 I obtained my Master's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
 - 🌱 I am exploring becoming a full stack engineer and AI researcher.
 - 🪐 I am passionate about the open-source industry and data competitions. 
 

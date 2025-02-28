@@ -49,13 +49,8 @@
 
 ## Still interested in  
     - NLP, LLM, MultiModal Model, Recommendation System, Retrieval System.
-    - Deep Learning Framework, Inference Acceleration.
-    - Remote Sensing, Satellite System.
-
-## Research Topic  
-    1. Remote Sensing Image Interpretation
-    2. Long Context Expansion in Large Language Model
-    3. Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models
+    - Deep Learning Framework, AI Infra, Inference Acceleration.
+    - Remote Sensing Image Interpretation, Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models.
 
 ## Stats & Language in Github
 <div align="center" >

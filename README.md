@@ -48,8 +48,8 @@
 - 🪐 I am passionate about the open-source industry and data competitions. 
 
 ## Still interested in  
-    - NLP, LLM, MultiModal Model, Recommendation System, Retrieval System.
-    - Deep Learning Framework, AI Infra, Inference Acceleration.
+    - NLP, LLM, MultiModal Model, Recommendation & Retrieval System.
+    - AI Infra, Deep Learning Framework,  Inference Acceleration.
     - Remote Sensing Image Interpretation, Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models.
 
 ## Stats & Language in Github

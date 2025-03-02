@@ -42,15 +42,13 @@
 ## About Me
 - 🔭 I am Baolan currently learning computer science.
 - 💼 I obtained my Master's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/).
-- 📕 I have worked (& interned) in some technology companies, such as ByteDance, Alibaba, Baidu, Huawei and OPPO.
 - 😀 I maintain a personal blog at [baolanchen.space](https://baolanchen.space), where I share my learning notes and insights.
 - 🌱 I am exploring becoming a full stack engineer and AI researcher.
-- 🪐 I am passionate about the open-source industry and data competitions. 
 
 ## Still interested in  
-    - NLP, LLM, MultiModal Model, Recommendation & Retrieval System.
+    - NLP, LLM, Recommendation & Retrieval System.
     - AI Infra, Deep Learning Framework,  Inference Acceleration.
-    - Remote Sensing Image Interpretation, Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models.
+    - Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models.
 
 ## Stats & Language in Github
 <div align="center" >

@@ -48,7 +48,7 @@
 ## Still interested in  
     - NLP, LLM, Recommendation & Retrieval System.
     - AI Infra, Deep Learning Framework,  Inference Acceleration.
-    - Satellite-Ground/Edge-Cloud Collaborative System of Large and Small Models.
+    - Edge-Cloud Collaborative System of Large and Small Models.
 
 ## Stats & Language in Github
 <div align="center" >

@@ -40,7 +40,7 @@
 </div>
 
 ## About Me
-- 🔭 I am Baolan currently learning computer science.
+- 🔭 Keep passion for Computer Science. Carpe diem.
 - 💼 I obtained my Master's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/).
 - 😀 I maintain a personal blog at [baolanchen.space](https://baolanchen.space), where I share my learning notes and insights.
 - 🌱 I am exploring becoming a full stack engineer and AI researcher.

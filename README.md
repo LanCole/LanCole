@@ -46,7 +46,7 @@
 - 🌱 I am exploring becoming a full stack engineer and AI researcher.
 
 ## Still interested in  
-    - NLP, LLM, Recommendation & Retrieval System.
+    - NLP, LLM, MultiModal Learning, Recommendation & Retrieval System.
     - AI Infra, Deep Learning Framework,  Inference Acceleration.
     - Edge-Cloud Collaborative System of Large and Small Models.
 

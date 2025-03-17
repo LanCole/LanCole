@@ -47,7 +47,7 @@
 
 ## Still interested in  
     - NLP, LLM, MultiModal Learning, Recommendation & Retrieval System.
-    - AI Infra, Deep Learning Framework,  Inference Acceleration.
+    - AI Infra, Deep Learning Framework, Inference Acceleration.
     - Edge-Cloud Collaborative System of Large and Small Models.
 
 ## Stats & Language in Github

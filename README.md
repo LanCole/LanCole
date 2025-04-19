@@ -1,13 +1,6 @@
 # Hello Everyone, there 👋
 
 <div align="center">
-     
-  <div>
-    <a href="(https://github.com/LanCole/LanCole/edit/main/README.md)">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=980&lines=console.log(%22Hello%2C%20World!%22);Welcome to my corner of the internet! &center=true&size=35&color=#33ccff " />
-    </a>
-  </div>
-   
    <!-- cute cat pictures 可爱猫猫图片-->
   <picture>
     <img src="https://github.com/LanCole/LanCole/blob/main/cute_cat.png" / width=250>

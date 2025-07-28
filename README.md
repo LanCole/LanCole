@@ -46,5 +46,5 @@
 
 ## Stats
 
-![LanCole's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanCole&show_icons=true&theme=gruvbox_light )
+![LanCole's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanCole&show_icons=true&theme=ambient_gradient  )
 

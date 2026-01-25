@@ -35,7 +35,7 @@
 ## About Me
 - 🔭 Keep passion for Computer Science. Keep hands dirty, keep minds clear.
 - 😊 Carpe diem. Open, Reproduce, Exchange.
-- 😀 I maintain a personal blog at [baolanchen.space](https://baolanchen.space), where I share my learning notes and insights.
+- 😀 I maintain a personal blog at [baolanchen.github.io](https://baolanchen.github.io), where I share my learning notes and insights.
 - 🌱 I am exploring becoming a full stack engineer and AI researcher, having a strong passion for algorithm competitions, contributing to open-source projects, writing and reading research papers, as well as sharing insights through technical blogs.
 
 ## Still interested in  

@@ -38,8 +38,8 @@
 - 🌱 I am exploring becoming a full stack engineer and AI researcher, having a strong passion for algorithm competitions, contributing to open-source projects, writing and reading research papers, as well as sharing insights through technical blogs.
 
 ## Still interested in  
-    - NLP, RL, MLSys
-    - MultiModal Learning, Recommendation & Retrieval System.
+    - NLP, RL, MLSys, Recommendation & Retrieval System
+    - MultiModal Learning, Signal Processing.
     - AI Infra, Deep Learning Framework, Inference Acceleration.
     - Edge-Cloud Collaborative System of Large and Small Models.
 

@@ -43,3 +43,6 @@
     - AI Infra, Deep Learning Framework, Inference Acceleration.
     - Edge-Cloud Collaborative System of Large and Small Models.
 
+## Github Stats
+![LanCole's github stats](https://github-readme-stats-fast.vercel.app/api?username=LanCole&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+

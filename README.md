@@ -1,4 +1,4 @@
-# Hello Everyone, there 👋
+# Hello Everyone, there 👋 This is LanCole
 
 <div align="center">
    <!-- cute cat pictures 可爱猫猫图片-->

@@ -13,9 +13,7 @@
        <!-- blog -->
      <a href="https://baolanchen.github.io/"><img src="https://img.shields.io/badge/Website-个人主页-8c36db" /></a>&emsp;
       <!-- zhihu -->
-     <!-- <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;     
-       <!-- leetcode --> -->
-     <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/LeetCode-编程-ff9900" /></a>&emsp;
+     <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;     
      <!-- Kaggle -->
      <a href="https://www.kaggle.com/helloiamcbl"><img src="https://img.shields.io/badge/Kaggle-竞赛-007fff" /></a>&emsp;
     <!-- visitor -->
@@ -46,3 +44,5 @@
 ## Github Stats
 ![LanCole's github stats](https://github-readme-stats-fast.vercel.app/api?username=LanCole&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
+<!-- leetcode -->
+ <!--     <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://img.shields.io/badge/LeetCode-编程-ff9900" /></a>&emsp; -->

@@ -33,7 +33,7 @@
 ## About Me
 - 🔭 Keep passion for Computer Science. Keep hands dirty, keep minds clear.
 - 😊 Carpe diem.
-- 👀 Open, Reproduce, Exchange, Progress, not perfection.
+- 👀 Open, Reproduce, Exchange, Progress, not Perfection.
 - 🌱 I am exploring becoming a full stack engineer and AI researcher, having a strong passion for algorithm competitions, contributing to open-source projects, writing and reading research papers, as well as sharing insights through technical blogs.
 
 ## Still interested in  
